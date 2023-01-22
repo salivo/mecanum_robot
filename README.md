@@ -1,7 +1,5 @@
 # mecanum_robot
-
-## Mecanum Robot API
-### For Esp32
+### Mecanum Robot API for Esp32
 
 ## To Do list
 
