@@ -9,6 +9,6 @@
 
 ## How to install
 
-must be installed esp-idf
-and just copy and paste code 
-i future must be more difficult
+* must be installed esp-idf
+* and just copy and paste code 
+* in future must be more difficult
